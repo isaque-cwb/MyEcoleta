@@ -1,9 +1,9 @@
 # MyEcoleta
-## Projeto cadastro e consulta Pontos de Coleta Lixo Reciclável 
+###Projeto cadastro e consulta Pontos de Coleta Lixo Reciclável 
 
-## Feito com TypeScript FullStack com Api, Web, Mobile.
+###Feito com TypeScript FullStack com Api, Web, Mobile.
 
-## Tela Principal ...
+###Tela Principal ...
 ![image](https://user-images.githubusercontent.com/57151930/219871332-6063e3e0-fd1c-40e3-a4da-e4bb6bffd753.png)
 
 É possível fazer Upload de imagem do Comércio a ser cadastrado, arrastando a imagem pra este local, o que será gerado uma pré-visualização ...
