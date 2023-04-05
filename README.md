@@ -1,7 +1,7 @@
 # MyEcoleta
 ### Projeto cadastro e consulta Pontos de Coleta Lixo Reciclável 
 
-### Feito com TypeScript com ApiRest, Web, Mobile.
+### Feito com TypeScript com ApiRest, Web e Mobile.
 
 ### Tela Principal ...
 ![image](https://user-images.githubusercontent.com/57151930/219871332-6063e3e0-fd1c-40e3-a4da-e4bb6bffd753.png)
