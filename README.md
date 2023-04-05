@@ -6,7 +6,8 @@
 ## Tela Principal ...
 ![image](https://user-images.githubusercontent.com/57151930/219871332-6063e3e0-fd1c-40e3-a4da-e4bb6bffd753.png)
 
-É possível fazer Upload de imagem do Comércio a ser cadastrado, arrastando a imagem pra este local, o que será gerado uma pré-visualização ...
+### É possível fazer Upload de imagem do Comércio a ser cadastrado, arrastando a imagem pra este local, 
+### o que será gerado uma pré-visualização ...
 
 ![image](https://user-images.githubusercontent.com/57151930/219871663-ed49e398-8ca0-4e14-9e20-26fc720d0e80.png)
 
