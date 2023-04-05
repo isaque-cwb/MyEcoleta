@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/57151930/219871665-2b937844-4eb9-4342-8c2a-37df30507b16.png)
 
-## Seleção dos items que serão recolidos no Local
+## Seleção dos items que serão recolhidos no Local
 
 ![image](https://user-images.githubusercontent.com/57151930/219871668-f2c13fef-c769-4101-91f5-b3858d69f9e8.png)
 
